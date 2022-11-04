@@ -5,3 +5,6 @@ version = '1.0.0'
 git = 'https://github.com/aptos-labs/aptos-core.git'
 rev = 'main'
 subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+admin = "0x1fb73a71d8726aec382053d8c845903122d8e0a07922deea9553da6ee8835b3c"
